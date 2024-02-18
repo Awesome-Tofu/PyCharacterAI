@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+PyCharacterAI/__init__.py
+PyCharacterAI/chat.py
+PyCharacterAI/client.py
+PyCharacterAI/requester.py
+PyCharacterAI.egg-info/PKG-INFO
+PyCharacterAI.egg-info/SOURCES.txt
+PyCharacterAI.egg-info/dependency_links.txt
+PyCharacterAI.egg-info/requires.txt
+PyCharacterAI.egg-info/top_level.txt
+PyCharacterAI/types/__init__.py
+PyCharacterAI/types/message.py
